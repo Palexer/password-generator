@@ -1,9 +1,10 @@
-# password-generator
+# Password Generator
 A simple GUI password generator written in Python
 
-## Operating Systems
+## Installation
 
-- Packages are currently available for Linux and Windows, but you can run the Python file on any operating system, that has the dependencies installed (including macOS)
+You can download the executable files for Linux and Windows from the releases section or run
+the Python files directly on any system with the dependencies installed.
 
 ## Dependencies
 
@@ -13,4 +14,4 @@ A simple GUI password generator written in Python
 
 ## License
 
-- GPL v3
+MIT
